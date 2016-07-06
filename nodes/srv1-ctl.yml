@@ -28,7 +28,7 @@ parameters:
     
   linux:
     system:
-      name: srv1-ctl
+      name: cfg
       domain: sjc2.localhosting.com
       enabled: true
       cluster: 'system'
